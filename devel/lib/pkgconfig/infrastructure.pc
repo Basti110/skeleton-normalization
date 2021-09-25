@@ -1,0 +1,8 @@
+prefix=/home/trainerai/trainerai-core/devel
+
+Name: infrastructure
+Description: Description of infrastructure
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

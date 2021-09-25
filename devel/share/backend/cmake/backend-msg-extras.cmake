@@ -1,0 +1,2 @@
+set(backend_MESSAGE_FILES "/home/trainerai/trainerai-core/src/backend/msg/Pixel.msg;/home/trainerai/trainerai-core/src/backend/msg/Bodypart.msg;/home/trainerai/trainerai-core/src/backend/msg/Person.msg;/home/trainerai/trainerai-core/src/backend/msg/Persons.msg;/home/trainerai/trainerai-core/src/backend/msg/Commands.msg;/home/trainerai/trainerai-core/src/backend/msg/Bboxes.msg;/home/trainerai/trainerai-core/src/backend/msg/StationUsage.msg;/home/trainerai/trainerai-core/src/backend/msg/Images.msg")
+set(backend_SERVICE_FILES "")

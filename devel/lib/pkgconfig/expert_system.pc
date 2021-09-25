@@ -1,0 +1,8 @@
+prefix=/home/trainerai/trainerai-core/devel
+
+Name: expert_system
+Description: Description of expert_system
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime

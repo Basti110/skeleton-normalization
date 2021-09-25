@@ -1,0 +1,8 @@
+prefix=/home/trainerai/trainerai-core/devel
+
+Name: spin
+Description: Description of spin
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime

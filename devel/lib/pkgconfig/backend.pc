@@ -1,0 +1,8 @@
+prefix=/home/trainerai/trainerai-core/devel
+
+Name: backend
+Description: Description of backend
+Version: 0.0.0
+Cflags: -I/home/trainerai/trainerai-core/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
